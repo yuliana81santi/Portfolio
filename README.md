@@ -15,7 +15,7 @@ I like to keep the website simple as it suits my style and make it easier for an
 - Footer - It is located at the bottom of each page in the center. 
 
 **Education.html**
-- Institutions links - I provided the links to the insitutions i attended to allow users to get information about them. 
+- Institutions links - I provided the links of the insitutions i attended to allow users to get information about them. 
 
 **contact.html**
 - form with send button - It allows users to provide their names and email address and send messages to contact me. No further action is taken when "send" button is clicked due to the limitation of this project.  
