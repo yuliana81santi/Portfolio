@@ -20,7 +20,7 @@ I like to keep the website simple as it suits my style and make it easier for an
 **contact.html**
 - form with send button - It allows users to provide their names and email address and send messages to contact me. No further action is taken when "send" button is clicked due to the limitation of this project.  
 
-**Features left to Implement"
+**Features left to Implement**
 Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website
 - the "send" button in the contact.html will provide a prompt to inform the users that their message has been succesfully sent. 
 - add some animation such as page transition to the webpage to make it more attractive. 
