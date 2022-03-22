@@ -14,3 +14,5 @@ I like to keep the website simple as it suits my style and make it easier for an
 - Navigation links - It is located in the right top corner of the web pages to help users to navigate around my web pages. 
 - Footer - It is located at the bottom of each page in the center. 
 
+**contact.html**
+- form with send button - It allows users to provide their names and email address and send messages to contact me. No further action is taken when "send" button is clicked due to the limitation of this project.  
