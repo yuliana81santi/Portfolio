@@ -6,3 +6,10 @@ UX
 ---
 This webpage can be used by any potential employers or company who would like to hire me to get detailed information about myself. 
 I like to keep the website simple as it suits my style and make it easier for any readers to navigate around the website.  
+
+## Features
+
+**All Pages**
+- Full screen overlay menu - My website contain navigation link which will direct users to the relevant pages.
+- Navigation links - It is located in the right top corner of the web pages to help users to navigate around my web pages. 
+
