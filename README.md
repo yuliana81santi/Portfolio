@@ -24,3 +24,13 @@ I like to keep the website simple as it suits my style and make it easier for an
 Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website
 - the "send" button in the contact.html will provide a prompt to inform the users that their message has been succesfully sent. 
 - add some animation such as page transition to the webpage to make it more attractive. 
+
+## Technology Used
+- HTML5
+  I used html5 as the basic element to create my website.
+- CSS3
+  I used CSS3 to add styling to the content of my webpages.
+- Javascript
+  I used JS to add funtionality to the content of my website.
+- Github
+  I used Github as my remote repository and used it to deploy my website. 
