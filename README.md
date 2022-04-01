@@ -37,8 +37,8 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
 ## Testing
 
 **Responsive Testing**
-I used google chrome to test my website to make sure that it looks good on different screen size. 
+- I used google chrome to test my website to make sure that it looks good on different screen size. 
 
 **HTML and CSS Validation**
-I used W3C HTML Validator tool to validate the HTML code
-I used W3C CSS Validator tool to validate the CSS code
+- I used W3C HTML Validator tool to validate the HTML code
+- I used W3C CSS Validator tool to validate the CSS code
